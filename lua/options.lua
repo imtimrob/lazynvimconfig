@@ -32,7 +32,6 @@ vim.o.hlsearch = false
 vim.o.incsearch = true
 
 vim.o.termguicolors = true
---vim.cmd("colorscheme carbonfox")
 
 -- Set completeopt to have a better completion experience
 vim.o.completeopt = 'menuone,noselect'
